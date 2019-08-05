@@ -133,7 +133,7 @@ See a list of available rake tasks defined by Octopress:
 
     make rake
 
-Run an abritrary rake task:
+Run an arbitrary rake task:
 
     make rake-new_page   # runs 'rake new_page' inside docker
 
